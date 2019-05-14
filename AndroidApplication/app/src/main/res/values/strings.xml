@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SmartDining</string>
+    <string name="loginTitle">Smart Dining</string>
+    <string name="login_edit_text">UNI</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="UniAutoFillHints">Please enter your UNI</string>
+    <string name="PwdAutoFillHints">Please enter your UNI</string>
+    <string name="signupButton">Sign Up</string>
+    <string name="numberOfPeople">Current Number of People: </string>
+    <string name="menuSubtitle">Available Dishes</string>
+    <string name="addComment">Add Comment&#8230;</string>
+    <string name="foodCost">Cost: </string>
+    <string name="totalCostPrompt">Total Cost: </string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_recognition">Recognition</string>
+    <string name="title_orders">Food</string>
+    <string name="title_profile">Profile</string>
+    <string name="scan_button">Scan!</string>
+    <string name="user_name">Username: </string>
+    <string name="default_name">Retrieving&#8230;</string>
+    <string name="user_credits">Credits: </string>
+    <string name="default_credit">Retrieving&#8230;</string>
+    <string name="logout">LogOut</string>
+    <string name="refresh">Refresh</string>
+    <string name="retrieving">Retrieving&#8230;</string>
+</resources>

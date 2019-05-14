@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recognition"
+        android:icon="@drawable/lens"
+        android:title="@string/title_recognition" />
+
+    <item
+        android:id="@+id/orders"
+        android:icon="@drawable/dish"
+        android:title="@string/title_orders" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="@string/title_profile" />
+
+</menu>
